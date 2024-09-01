@@ -1,4 +1,4 @@
-# CHurn Dataset -Dashboard
+# Churn Dataset -Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiM2M4ZWM0ZDMtMjhhNy00ODkxLTlkY2UtNTBmNTI1OTQ4NWY5IiwidCI6IjE1NTE1N2M3LTc5MzUtNDkxYi04OWQxLWY5NTJhYWQ1YzYwOSJ9
 
